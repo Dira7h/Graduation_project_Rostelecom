@@ -3,7 +3,7 @@
 При проектировании автоматизированных тестов быд применен паттерн PageObject.
 
 При тестировании сайта были написаны:
-- тест-кейсы (https://docs.google.com/spreadsheets/d/1tiHUeq0QqrXdRi1fP7QydFUI_yzhK9Z43W9xM3wNPiQ/edit?usp=sharing);
+- тест-кейсы ([https://docs.google.com/spreadsheets/d/1tiHUeq0QqrXdRi1fP7QydFUI_yzhK9Z43W9xM3wNPiQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/16efanoT6fS_ofTm3b6ePg6afiKpiLAHiQuwhWHdEpPg/edit?usp=sharing));
 - баг-репорты;
 - автоматизированные тесты.
 
